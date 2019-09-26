@@ -256,6 +256,10 @@ li {
   font-size: 10px;
 }
 
+.card-caption-url1 {
+  font-size: 15px;
+}
+
 .card img.fadein {
   -webkit-transition: 1.5s;
   -moz-transition: 1.5s;
