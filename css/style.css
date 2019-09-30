@@ -137,12 +137,15 @@ li {
   align-items: center;
   justify-content: center;
   height: 86vh;
+  background: url("../img/header/baseball1.png");
+  background-size: cover;
 }
 
 #header .logo {
   position: relative;
   margin-bottom: 30px;
   text-align: center;
+  color: #fff;
 }
 
 #header .logo-title {
